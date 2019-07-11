@@ -1,0 +1,7 @@
+$ cargo new guessing_game
+$ cd guessing_game
+
+$ cargo run
+$ cargo build
+
+$ cargo doc --open
